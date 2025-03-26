@@ -28,7 +28,7 @@ QR-AuthNet is an advanced deep learning-based solution designed to **differentia
 ⚡ **Quick Start:**  
 1️⃣ **Clone the repository:**  
 ```bash
-https://github.com/Rizwansaifi571/QR-AuthNet-Authenticity-Detection-with-CNN.git
+git clone https://github.com/Rizwansaifi571/QR-AuthNet-Authenticity-Detection-with-CNN.git
 cd QR-AuthNet
 ```
 2️⃣ **Set up the environment:**  
